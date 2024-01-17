@@ -1,0 +1,16 @@
+.card_wrapper {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  row-gap: 2rem;
+  column-gap: 2rem;
+  width: 95%;
+  gap: 2rem;
+  margin-top: 2rem;
+  padding: 2rem;
+}
+.cardSize {
+  /* height: 360px; */
+  border-radius: 15px;
+  padding: 1.5rem;
+  background: lightgray;
+}

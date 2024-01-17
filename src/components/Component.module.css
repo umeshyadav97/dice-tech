@@ -1,0 +1,11 @@
+.image_size{
+    height: 250px;
+    width: 250px;
+    display: flex;
+    justify-content: center;
+    border-radius: 8px;
+}
+.parent{
+    display: flex;
+    justify-content: center;
+}
